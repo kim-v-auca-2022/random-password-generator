@@ -5,7 +5,7 @@ Random password generator written in Python. It is possible to customize length,
 1. Make sure python 3.12.3 is installed and have sudo priviliges
 2. Clone the repository:
 ```
-git clone 
+git clone https://github.com/kim-v-auca-2022/random-password-generator.git
 ```
 3. Go to the cloned repository folder and copy source code into /bin folder:
 ```

@@ -9,6 +9,7 @@ git clone https://github.com/kim-v-auca-2022/random-password-generator.git
 ```
 3. Go to the cloned repository folder and copy source code into /bin folder:
 ```
+cd random-password-generator
 sudo cp password_generator.py /usr/local/bin/password_generator
 ```
 4. Make code executable:
